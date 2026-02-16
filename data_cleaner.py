@@ -3,7 +3,7 @@ Data Cleaner - Automated data cleaning and validation pipeline
 Part of Python Automation Toolkit | Day 2 of 30-Day Challenge
 
 Demonstrates enterprise-grade data cleaning that saved 60% manual work
-at Virtusa by automating repetitive data processing tasks.
+in previous projects by automating repetitive data processing tasks.
 
 Author: Meghana Mareedu
 """

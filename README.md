@@ -8,7 +8,7 @@
 
 ## 🎯 The Problem
 
-At Virtusa, I saw teams spending hours on:
+In my previous experience, I saw teams spending hours on:
 - Manually organizing downloaded files
 - Cleaning messy CSV data by hand
 - Creating reports in Excel

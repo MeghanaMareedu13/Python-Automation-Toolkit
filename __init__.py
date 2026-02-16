@@ -3,7 +3,7 @@ Python Automation Toolkit
 Day 2 of 30-Day Challenge
 
 A collection of 5 practical automation scripts that demonstrate
-how to reduce manual work by 60% - based on real Virtusa experience.
+how to reduce manual work by 60% - based on real experience.
 
 Author: Meghana Mareedu
 GitHub: https://github.com/MeghanaMareedu13

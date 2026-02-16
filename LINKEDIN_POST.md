@@ -6,7 +6,7 @@
 
 🐍 **Day 2 of 30: How I Reduced Manual Work by 60%** 
 
-At Virtusa, I noticed a pattern: talented engineers were spending HOURS on repetitive tasks.
+In a past internship, I noticed a pattern: talented engineers were spending HOURS on repetitive tasks.
 
 ❌ Organizing hundreds of downloaded files
 ❌ Cleaning messy CSV data by hand  
@@ -43,7 +43,7 @@ So I built automation scripts. Today, I'm sharing them.
 ✅ Detailed logging
 ✅ Built-in demos
 
-**Real Impact at Virtusa:**
+**Real Impact during my internship:**
 📊 Reduced manual intervention by 60%
 ⏱️ Saved 15+ hours per week for the team
 🎯 Zero errors from manual data entry
@@ -56,7 +56,7 @@ Drop it in the comments 👇
 
 ---
 
-#Python #Automation #DataEngineering #Productivity #30DayChallenge #OpenToWork #SoftwareEngineer #Programming #Tech #Virtusa #CareerGrowth
+#Python #Automation #DataEngineering #Productivity #30DayChallenge #OpenToWork #SoftwareEngineer #Programming #Tech #CareerGrowth
 
 ---
 
